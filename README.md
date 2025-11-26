@@ -26,3 +26,7 @@ It is included in this repository so teachers/reviewers can see the sample outpu
 
 
 #2 Generates password - <img width="494" height="490" alt="image" src="https://github.com/user-attachments/assets/f4c511ef-1c02-4feb-9401-6ce37d379a64" />
+
+
+
+# Saved password - <img width="365" height="147" alt="image" src="https://github.com/user-attachments/assets/2a59bf18-d899-4965-82d3-34ccaf4b7cbe" />
