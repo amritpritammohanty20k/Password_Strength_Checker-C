@@ -13,7 +13,7 @@ A simple C program that checks the strength of a password, validates it using mu
   9. Exit
 
       
-**# Unique Feature is We can create a password by ourself , which is not possible in Google Password Manager .**
+**# Unique Feature is that we can create a password, which is not possible in Google Password Manager .**
 
 # Project Structure
 Password_Strength_Checker-C/
