@@ -22,4 +22,7 @@ It is included in this repository so teachers/reviewers can see the sample outpu
 
 # Output :
 #1 Creates a password - <img width="486" height="442" alt="image" src="https://github.com/user-attachments/assets/94cd6147-d124-48f1-84b6-e4ce48db402c" />
+
+
+
 #2 Generates password - <img width="494" height="490" alt="image" src="https://github.com/user-attachments/assets/f4c511ef-1c02-4feb-9401-6ce37d379a64" />
