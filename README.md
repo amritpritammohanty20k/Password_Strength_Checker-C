@@ -1,5 +1,6 @@
 # Password_Strength_Checker-C
 A simple C program that checks the strength of a password, validates it using multiple security rules, and optionally saves strong passwords to a file for future reference.
+# Basically its a demo of Google Password Manager .
 # Features
   1. Check password strength
   2. Generate a strong password
@@ -10,6 +11,8 @@ A simple C program that checks the strength of a password, validates it using mu
   7. Delete a password
   8. Delete all passwords
   9. Exit
+**# Unique Feature is We can create a password by ourself , which is not possible in Google Password Manager .**
+
 # Project Structure
 Password_Strength_Checker-C/
 │
